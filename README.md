@@ -13,23 +13,32 @@ Jupyter Notebooks created by Diana Kollenda
 Last edited: 08/08/2026
 
 - Overview
+  
    •  Learn core concepts in eye-tracking data collection, analysis, and reporting.
+  
    •  Use interactive exercises and introductory Python in Jupyter notebooks.
+  
    •  Develop practical skills to plan, analyze, and present eye-tracking research.
 
 - Prerequisites
+  
    •  Jupyter Lab installed (to open and run notebooks)
   
 - Setup and run
+  
    •  Install Jupyter Lab if you don’t have it.
+  
    •  Open a terminal and run:
       py -m jupyter lab
+  
    •  Open the notebooks from the repository and begin the hands-on exercises.
 
 - Notes
+  
    •  Some notebooks may require additional Python packages; see requirements in the notebooks’ cells or a requirements.txt if provided.
+  
    •  Ensure your environment has network access if you plan to fetch data or dependencies.
+  
    •  Anonymized data provided are from participants that gave informed consent.
-   •  Ensure your environment has network access if you plan to fetch data or dependencies.
 
    •  Anonymized data provided are from participants that gave informed consent
