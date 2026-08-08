@@ -10,7 +10,10 @@ to execute and present their own research projects. The course blends structured
 collaborative problem-solving in a dynamic, informal setting.
 
 Jupyter Notebooks created by Diana Kollenda
+
 Last edited: 08/08/2026
+
+Let me know in case you find a bug: diana.kollenda@gmail.com
 
 - Overview
   
