@@ -35,7 +35,7 @@ Last edited: 08/08/2026
 
 - Notes
   
-   •  Some notebooks may require additional Python packages; see requirements in the notebooks’ cells or a requirements.txt if provided.
+   •  Some notebooks may require additional Python packages; see requirements in the notebooks’ cells
   
    •  Ensure your environment has network access if you plan to fetch data or dependencies.
   
