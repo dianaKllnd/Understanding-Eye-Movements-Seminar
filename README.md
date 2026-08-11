@@ -3,7 +3,7 @@
 Please note that identical versions are available in both German and English.
 
 Materials for the hands-on introduction to the practical Understanding Eye Movements Seminar. This 
-immersive, interactive program targets first- to second-year BA psychology students and 
+interactive program targets first- to second-year BA psychology students and 
 covers the essentials of analyzing and presenting eye-tracking results. Through hands-on 
 exercises and basic programming with Jupyter notebooks, participants will gain the skills 
 to execute and present their own research projects. The course blends structured learning with 
@@ -42,6 +42,6 @@ Let me know in case you find a bug: diana.kollenda@gmail.com
   
    •  Ensure your environment has network access if you plan to fetch data or dependencies.
   
-   •  Anonymized data provided are from participants that gave informed consent.
+   •  The pseudonymized data provided comes from participants who have given their informed consent.
 
    •  Anonymized data provided are from participants that gave informed consent
